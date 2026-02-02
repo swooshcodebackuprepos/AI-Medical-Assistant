@@ -1,0 +1,18 @@
+1) Most likely rhythm: Sinus rhythm
+
+2) Supporting features:
+- Rate: Approximately 75 beats per minute (counting the number of QRS complexes over the time interval).
+- Regularity: Regular rhythm, consistent spacing between QRS complexes.
+- P waves: Present before each QRS complex, upright and normal morphology.
+- PR interval: Appears consistent and within normal duration.
+- QRS width: Narrow, typical duration indicating normal ventricular conduction.
+- No ectopy or abnormal beats observed.
+
+3) Key differentials and how to distinguish:
+- Sinus bradycardia: Rate would be less than 60 bpm, here the rate is higher.
+- Atrial flutter with regular conduction: Would show more atrial activity (sawtooth F waves) and possibly different conduction ratios.
+- Atrial fibrillation: Would have irregularly irregular rhythm without distinct P waves.
+
+4) Confidence: High — clear presence of P waves before each QRS, regular rate and rhythm, normal intervals.
+
+5) Safety note: Decision-support only; clinician must confirm interpretation in clinical context.

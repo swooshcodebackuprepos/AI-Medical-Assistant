@@ -1,0 +1,13 @@
+The rhythm strip visible on the right side of the screen is consistent with a Normal Sinus Rhythm.
+
+Clinically structured interpretation:
+- Rate: Approximately 60-100 beats per minute (normal rate)
+- Rhythm: Regular
+- P wave: Present before each QRS complex with consistent morphology, indicating sinus origin
+- PR interval: Normal duration (0.12-0.20 seconds)
+- QRS duration: Normal (narrow complexes)
+- Overall interpretation: Normal sinus rhythm, indicating normal electrical conduction and heart rate
+
+Confidence: High, given the presence of a P wave before each QRS, a regular rhythm, and normal heart rate and intervals.
+
+Decision support only; final clinical interpretation must be confirmed by a qualified healthcare professional.

@@ -1,0 +1,13 @@
+The rhythm strip visible in the screen image shows a very rapid, wide-complex tachycardia with no discernible P waves. The QRS complexes are wide and occur in a regular, rapid pattern.
+
+Key observations:
+- Wide QRS complexes
+- Rapid regular rhythm
+- Absence of visible P waves or associated P waves
+- No AV dissociation clearly visible
+
+These features are most consistent with a diagnosis of ventricular tachycardia (VT) rather than a third-degree heart block, which typically shows AV dissociation with independent P waves and QRS complexes.
+
+Confidence level: High that this is ventricular tachycardia based on the described features in the rhythm strip.
+
+Note: This is decision-support information. Clinical correlation and confirmation by a qualified clinician with full clinical context and a 12-lead ECG is essential.

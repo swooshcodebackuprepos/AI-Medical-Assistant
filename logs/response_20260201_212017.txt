@@ -1,0 +1,18 @@
+1) Most likely rhythm: Sinus tachycardia
+
+2) Supporting features:
+- Rate: Approximately 110-130 bpm (fast)
+- Regular rhythm with fixed intervals between QRS complexes
+- Narrow QRS complexes (<120 ms)
+- P waves generally visible before each QRS, although small
+- PR interval fixed and consistent
+- No obvious ectopic beats or abnormalities in QRS morphology
+
+3) Key differentials and how to distinguish:
+- Sinus tachycardia: Regular rhythm, narrow QRS, P waves present and consistent before QRS
+- Atrial flutter with 2:1 block: Typically sawtooth flutter waves visible, regular rhythm about 150 bpm or 75 bpm if 4:1 block; no distinct P waves but flutter waves instead
+- Supraventricular tachycardia (SVT): Regular narrow QRS tachycardia, P waves often hidden within or after QRS, abrupt onset/offset in clinical context
+
+4) Confidence: High – Clear narrow QRS, regular rhythm, and P waves before QRS visible support sinus tachycardia strongly.
+
+5) Safety note: Decision-support only; clinician must confirm with full ECG and clinical correlation.

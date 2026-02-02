@@ -1,0 +1,12 @@
+Based on the visible ECG rhythm strip in the image:
+
+- The QRS complexes appear narrow and regular.
+- There is a fixed interval between QRS complexes, indicating a regular rhythm.
+- P waves are not clearly discernible or associated in the strip shown.
+- The rhythm appears stable with no obvious irregularity in the QRS complexes.
+
+Regarding the diagnosis of first-degree heart block, the key feature to look for is a prolonged PR interval (>0.20 seconds) with each P wave followed by a QRS complex. However, this strip does not clearly show distinct P waves or an identifiable PR interval on visual inspection.
+
+Confidence: Moderate, given that the P waves are not clearly visible and the PR interval cannot be confidently measured from the strip shown.
+
+Decision-support only; clinician must confirm with a detailed review or additional leads to verify if this is indeed a first-degree heart block.

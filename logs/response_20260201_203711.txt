@@ -1,0 +1,7 @@
+The EKG strip visible on the screen shows a rhythm with regular, distinct P waves preceding each QRS complex and a consistent PR interval. The rhythm appears regular with a heart rate near 100 beats per minute. There is no evidence of irregularly irregular rhythm or absent P waves characteristic of atrial fibrillation (a-fib). 
+
+Given these findings, this strip is more consistent with normal sinus rhythm or sinus tachycardia rather than atrial fibrillation.
+
+Confidence: High
+
+Note: This interpretation is based on the visible EKG segment on the screen; final clinical correlation and confirmation by a qualified clinician is recommended.

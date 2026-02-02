@@ -1,0 +1,17 @@
+The image shows multiple EKG rhythm strips stacked vertically, but the quality and size make it difficult to clearly analyze the details of any single rhythm strip.
+
+1) Most likely rhythm: Unable to determine from this image due to insufficient clarity and size.
+
+2) Supporting features: 
+- Details like rate, rhythm regularity, P waves, PR interval, and QRS morphology are not clearly visible.
+- The strips vary in appearance but none is large or clear enough for definitive analysis.
+- No single rhythm strip is isolated for focused interpretation.
+
+3) Key differentials and how to distinguish each:
+- Not applicable here due to unclear EKG presentation.
+
+4) Confidence: Low
+- The image resolution and scale do not allow for clear rhythm identification or detailed feature analysis.
+
+5) Safety note:
+- This analysis is decision-support only. A clinician must review a high-quality, full 12-lead EKG or rhythm strip for accurate diagnosis and management. Please provide a clearer and focused image of a single EKG rhythm strip for detailed analysis.

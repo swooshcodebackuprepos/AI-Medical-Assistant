@@ -1,0 +1,21 @@
+The text from the displayed EKG AI Assistant analysis states the following:
+
+- The EKG shows a characteristic sawtooth pattern of flutter waves.
+- The ventricular response appears regular.
+- This pattern aligns with typical atrial flutter rather than fibrillation or other supraventricular tachycardias.
+- Confidence in this interpretation is moderate to high based on visible atrial flutter wave morphology.
+- Local ML model confidence: Normal rhythm 92.4%, other/rare 7.6%.
+- Atrial Flutter is the rhythm visible on the EKG strip.
+- The diagnosis requires clinician confirmation for final decision-making.
+
+Therefore, the AI system does not indicate normal sinus rhythm in this EKG; it suggests atrial flutter with regular ventricular response. 
+
+Confidence in this interpretation is moderate to high per AI, but clinical confirmation and review of the actual EKG tracing is necessary before final diagnosis.
+
+Summary:
+- Rhythm visible: Atrial flutter (not normal sinus rhythm)
+- Pattern: Sawtooth flutter waves, regular ventricular response
+- AI confidence: Moderate to high
+- Clinical confirmation required
+
+Please have the clinician verify the rhythm interpretation against the actual EKG strip.

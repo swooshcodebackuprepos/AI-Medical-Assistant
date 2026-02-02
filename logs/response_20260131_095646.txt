@@ -1,0 +1,7 @@
+The image does not clearly show an EKG rhythm strip. The visible strip is very small, with low resolution and no clear cardiac waveform detail visible.
+
+Next steps:
+- Provide a higher quality, zoomed, and well-lit image of the EKG rhythm strip.
+- Ensure the strip shows clear P waves, QRS complexes, and a longer duration to assess rhythm features.
+
+Please upload a clearer image of the EKG rhythm strip for analysis.

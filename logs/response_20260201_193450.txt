@@ -1,0 +1,9 @@
+The EKG strips displayed in the image show three different rhythm strips numbered 1, 2, and 3:
+
+1. The first strip shows a regular rhythm with distinct P waves before each QRS complex and consistent PR intervals, suggesting a normal sinus rhythm.
+2. The second strip shows a slower regular rhythm with identifiable P waves and QRS complexes, indicating sinus bradycardia.
+3. The third strip shows a fast rhythm with irregularly spaced QRS complexes and absent distinct P waves before each QRS, indicative of atrial fibrillation.
+
+Confidence: High, based on visual assessment of the waveform characteristics.
+
+Please confirm these findings clinically before making any decisions.

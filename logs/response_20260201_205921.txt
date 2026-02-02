@@ -1,0 +1,11 @@
+The visible screen image shows a clinical decision-support interface analyzing an EKG rhythm strip.
+
+The AI interpretation explains that the rhythm strip is a very rapid, regular wide-complex tachycardia with no discernible P waves, consistent with ventricular tachycardia (V-tach). This contrasts with sinus tachycardia, which would have narrow QRS complexes and visible P waves before each QRS. Key features noted are wide QRS complexes, rapid regular rhythm, absence of visible P waves, and morphology typical of ventricular origin.
+
+Confidence: High for ventricular tachycardia based on the features described.
+
+Note: The earlier incorrect interpretation as ventricular tachycardia was likely due to misreading the rhythm as wide complex and rapid which is not supported here. Clinical confirmation and correlation with patient presentation and further diagnostic data are recommended.
+
+Clinician should confirm diagnosis and management decisions.
+
+Summary: The rhythm visible on the screen is ventricular tachycardia with high confidence from the decision-support system.

@@ -1,0 +1,10 @@
+The image does not clearly show an EKG rhythm strip. It appears to be a screenshot including text and a small, unclear EKG strip that is difficult to analyze due to low resolution and size.
+
+Next steps:
+- Obtain a clearer, larger EKG rhythm strip image.
+- Ensure multiple QRS complexes and intervals are visible for proper analysis.
+- Provide the EKG strip for evaluation.
+
+As is, there is insufficient detail to analyze the rhythm or provide a clinical interpretation.
+
+Safety note: This is decision-support only; a qualified clinician must confirm all findings.

@@ -1,0 +1,15 @@
+The screen image shows a webpage from an EKG practice test, asking the user to choose the correct rhythm for the displayed rhythm strip. The rhythm strip shown appears to be a flat line, which typically represents asystole or absence of electrical activity in the heart.
+
+Options provided include:
+- Normal sinus rhythm
+- Sinus tachycardia
+- Sinus bradycardia
+- SVT (supraventricular tachycardia)
+- Atrial flutter
+- Atrial fibrillation
+
+Given the visible flat line rhythm strip, none of the above options accurately describe asystole. This may be an issue with the displayed strip or an incomplete capture.
+
+Confidence: High that the strip shows a flat line/asystole, which is not among the given options. Clinical confirmation and validation of the rhythm strip quality is recommended.
+
+If you would like, I can assist with further interpretation or next steps.

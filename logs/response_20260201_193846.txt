@@ -1,0 +1,11 @@
+The image shows a computer screen with two main visible windows:
+
+1. On the left side, there is an "EKG AI Assistant" application window. It is currently ready to capture a snapshot, but no EKG analysis has yet been performed or displayed. The prompt states: "Press A to capture a clean snapshot, then ask a question here."
+
+2. On the right side, a web browser is open on a Scribd document page showing EKG practice strips. Three EKG strips are visible, each with spaces below to record Rate, Rhythm, P wave, PR interval, QRS complex, and an Interpretation. The second EKG strip appears to show a slower heart rate consistent with sinus bradycardia, and there is no visible sign of a 1st degree AV block (i.e., no prolonged PR interval).
+
+Based on your clinician correction, the assessment that strip 2 does not show a 1st degree AV block and that it shows sinus bradycardia is consistent with what is visible on the right side of the screen. The first strip and third strip are also displayed but not analyzed in this image.
+
+Confidence in your statement is high given the visible clinical details.
+
+Please note: Final clinical interpretation must be confirmed by a qualified healthcare professional.

@@ -1,0 +1,8 @@
+The image does not clearly show an EKG rhythm strip. The visible strip is very faint, lacking discernible waveforms such as P waves, QRS complexes, or T waves. 
+
+Next steps:
+- Obtain a clearer, higher-quality EKG rhythm strip.
+- Ensure proper electrode placement and machine settings.
+- Capture a full 10-second rhythm strip if possible for thorough analysis.
+
+Please provide a clearer EKG image for accurate rhythm analysis.

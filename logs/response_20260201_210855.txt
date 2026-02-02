@@ -1,0 +1,16 @@
+Clinical interpretation based on the visible screen image and text:
+
+- The AI system’s interpretation states the rhythm strip is characterized by a very rapid, wide complex tachycardia with no discernible or clear P waves.
+- Features observed include wide QRS complexes, rapid regular rhythm, absence of visible P waves.
+- These characteristics are consistent with ventricular tachycardia (VT) rather than a third-degree AV block with AV dissociation.
+- The text specifically notes that if a P wave is visible before each narrow QRS, sinus tachycardia may be considered. However, in this case, the QRS complexes are wide and rapid, and no clear P waves are associated.
+- Thus, the AI favors a diagnosis of ventricular tachycardia rather than third-degree heart block with dissociated P waves and wide QRS complexes.
+- Confidence in ventricular tachycardia is stated as high based on described features.
+- A clinical decision-support note recommends manual review and clinical correlation for final interpretation.
+
+Summary:
+The rhythm strip in the image is consistent with a wide complex tachycardia without associated P waves, favoring ventricular tachycardia rather than third-degree heart block with AV dissociation. P waves are not clearly visible or associated with the wide QRS complexes here. Final confirmation by a clinician is essential.
+
+Confidence: High for ventricular tachycardia interpretation based on the image and AI text analysis.
+
+Please note this is decision-support only; clinician confirmation is required.

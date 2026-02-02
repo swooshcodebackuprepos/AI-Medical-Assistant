@@ -1,0 +1,18 @@
+Clinical Interpretation:
+
+- The rhythm visible on the EKG strip corresponds to "Atrial Flutter."
+- Characteristics: 
+  - Atypical sawtooth pattern of flutter waves is present.
+  - The ventricular response appears regular.
+  - This pattern aligns with typical atrial flutter rather than atrial fibrillation or other supraventricular tachycardias or sinus rhythms.
+  
+Confidence:
+
+- Moderate to high confidence based on the visible atrial flutter wave morphology and ventricular response regularity.
+- Local machine learning model results showed a high confidence (0.924) in the normal pattern vs. other or rare.
+
+Note:
+
+- Clinician confirmation is necessary to finalize diagnosis and treatment decisions based on comprehensive clinical context and direct EKG review.
+
+Summary: The rhythm is consistent with atrial flutter with a regular ventricular response, and this assessment has moderate to high confidence.

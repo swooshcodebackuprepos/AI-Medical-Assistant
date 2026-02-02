@@ -1,0 +1,12 @@
+Clinically structured interpretation of the visible rhythm strip on the right side of the screen and the AI assistant's analysis:
+
+- Heart rate: Appears slow, consistent with bradycardia (<60 beats per minute)
+- Rhythm: Regular
+- P wave: Present before each QRS complex, consistent morphology indicating sinus origin
+- PR interval: Normal duration (0.12-0.20 seconds), not prolonged
+- QRS duration: Normal (narrow complexes)
+- Overall interpretation: Sinus bradycardia
+
+Confidence level: High, based on the presence of normal P waves before each QRS, regular rhythm, normal intervals, and slower heart rate consistent with sinus bradycardia.
+
+Note: This is decision-support information only. Final clinical confirmation and interpretation must be made by a qualified healthcare professional.

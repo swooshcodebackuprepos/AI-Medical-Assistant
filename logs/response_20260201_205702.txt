@@ -1,0 +1,11 @@
+The rhythm strip visible in the screenshot shows narrow QRS complexes with a regular atrial rhythm, but some P waves are not followed by QRS complexes (dropped beats). This is consistent with a type 2 second-degree atrioventricular (AV) block (Mobitz II), characterized by intermittent non-conducted P waves resulting in dropped QRS complexes with a fixed PR interval in conducted beats.
+
+Key clinical features visible:
+- Narrow QRS complexes (exclude ventricular origin tachycardia)
+- Presence of P waves
+- Dropped QRS complexes after some P waves (indicating non-conducted beats)
+- Regular atrial rhythm with variable ventricular response
+
+Confidence: High for type 2 second-degree AV block based on the pattern visible.
+
+Note: The earlier incorrect interpretation as ventricular tachycardia was likely due to misreading the rhythm as wide complex and rapid, which is not supported here. Clinical confirmation and correlation with patient presentation and further diagnostic data is recommended to finalize diagnosis and guide management.

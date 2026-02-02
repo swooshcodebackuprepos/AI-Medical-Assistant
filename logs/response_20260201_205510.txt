@@ -1,0 +1,16 @@
+The screen image presents a rhythm strip analysis and identifies the rhythm as ventricular tachycardia (V-tach), not sinus tachycardia.
+
+Key observed features supporting this diagnosis include:
+- Very rapid, regular rhythm with a rate generally over 100 beats per minute.
+- Presence of wide QRS complexes.
+- Absence of discernible P waves before each QRS complex.
+- Morphology typical for ventricular origin rather than supraventricular origin.
+
+There is high confidence in this interpretation based on the classic EKG features visible in the strip. However, clinical confirmation is advised by a healthcare professional to ensure appropriate clinical context and management.
+
+Summary:
+- Rhythm: Ventricular tachycardia (V-tach)
+- Confidence: High based on EKG features
+- Recommendation: Clinical confirmation necessary
+
+Please ensure this finding is corroborated by a cardiologist or a qualified clinician.

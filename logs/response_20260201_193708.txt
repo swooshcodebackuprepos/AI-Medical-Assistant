@@ -1,0 +1,14 @@
+The image shows a computer desktop with two active windows. On the left is the "EKG AI Assistant" application, which awaits a capture command to analyze an EKG strip. On the right, a browser window is open to a Scribd page displaying several example EKG practice strips with spaces to fill in rate, rhythm regularity, P wave presence, PR interval, QRS duration, and interpretation.
+
+Regarding your comment: Clinician confirming Sinus Bradycardia (SB) but also noting that ST segment changes are a first-degree AV block. 
+
+Explanation:
+- Sinus Bradycardia refers to a slow heart rate originating from the sinus node, often with normal P waves before each QRS.
+- First-degree AV block is defined by a prolonged PR interval (>200 ms) representing delayed conduction through the AV node but all atrial impulses are conducted.
+- The distinction is important clinically because sinus bradycardia alone usually has benign implications, but coexisting first-degree AV block suggests atrioventricular conduction delay. This can influence management, particularly if the conduction delay worsens or is associated with symptoms.
+
+I understand your request to incorporate this combined interpretation in future outputs for decision-support. I will ensure that if sinus bradycardia and first-degree AV block coexist, both findings will be clearly stated with their clinical importance noted.
+
+Confidence: High, based on standard EKG interpretation guidelines.
+
+Please confirm or provide additional details for further assistance.

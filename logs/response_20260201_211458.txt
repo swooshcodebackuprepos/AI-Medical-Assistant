@@ -1,0 +1,16 @@
+Based on the visible ECG rhythm strip in the image:
+
+- The QRS complexes appear narrow, not wide.
+- There is a regular rhythm with fixed intervals between QRS complexes.
+- P waves are not clearly discernible or associated in the strip shown.
+- The rhythm appears stable with no obvious irregularity in the QRS complexes.
+
+Clinical interpretation:
+
+- A fixed QR interval with a narrow QRS complex typically suggests a supraventricular rhythm with consistent conduction through the normal His-Purkinje system.
+- This could be consistent with a sinus rhythm, atrial tachycardia, or other atrial rhythms with 1:1 conduction and normal ventricular activation.
+- The absence of wide QRS complexes and the presence of a stable, narrow QRS complex argues against ventricular tachycardia or third-degree AV block with ventricular escape rhythm.
+  
+Confidence: Moderate, given the visible strip quality and the limited number of leads.
+
+Decision support only; please confirm with a full 12-lead ECG and clinical context for definitive diagnosis.

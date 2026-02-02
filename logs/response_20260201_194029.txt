@@ -1,0 +1,13 @@
+The rhythm visible in strip 3 is Sinus Tachycardia.
+
+Clinically structured interpretation:
+- Rate: Approximately 130-150 beats per minute (tachycardic)
+- Rhythm: Regular
+- P wave: Present before each QRS, consistent morphology (indicating sinus origin)
+- PR interval: Normal
+- QRS duration: Normal (narrow complexes)
+- Overall interpretation: Sinus tachycardia, which is a normal sinus rhythm but with an elevated heart rate.
+
+Confidence: High, given the clear sinus P waves and regular, narrow QRS complexes with elevated rate.
+
+Decision support only; please confirm with clinical context and a cardiologist if needed.

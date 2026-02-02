@@ -1,0 +1,12 @@
+Based on the visible ECG rhythm strip in the image:
+
+- The QRS complexes appear narrow, not wide.
+- There is a regular rhythm with fixed intervals between QRS complexes.
+- P waves are not clearly discernible or associated in the strip shown.
+- The rhythm appears stable with no obvious irregularity in the QRS complexes.
+
+These features are indicative of a narrow complex tachycardia with a regular rhythm and stable rate, consistent with **Sinus tachycardia**.
+
+Confidence: High
+
+Note: Clinical correlation and a full 12-lead ECG review are necessary for definitive diagnosis.

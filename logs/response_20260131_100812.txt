@@ -1,0 +1,11 @@
+The ECG strip that correctly identifies right heart failure is the one with the characteristic "right ventricular hypertrophy" pattern. This typically includes:
+
+- Tall R waves in the right precordial leads (such as V1),
+- Right axis deviation,
+- Possible strain patterns in the right precordial leads.
+
+In the image provided, the second to last strip (showing a prominent R wave in the right chest lead area with an arrow pointing to it) is the one most consistent with right heart strain or right ventricular hypertrophy, which can be associated with right heart failure.
+
+Confidence: Moderate, as the identification is based on visible ECG criteria consistent with right heart strain, but clinical correlation and more context are required for definitive diagnosis.
+
+Please confirm with a cardiologist or the appropriate clinical team.

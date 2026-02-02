@@ -1,0 +1,17 @@
+The screen image shows a webpage from an EKG practice test, specifically question 5 of 14, asking the user to choose the correct rhythm for a displayed rhythm strip.
+
+The rhythm strip shown at the bottom of the webpage demonstrates clear QRS complexes with preceding P waves at a regular interval, consistent with a normal sinus rhythm. The rate appears within normal limits, the rhythm is regular, and there are no abnormalities such as rapid rates, absent P waves, or irregular irregularity.
+
+Options provided on the webpage include:
+- Normal sinus rhythm
+- Sinus tachycardia
+- Sinus bradycardia
+- SVT (supraventricular tachycardia)
+- Atrial flutter
+- Atrial fibrillation
+
+Based on the visible rhythm strip, the most appropriate classification is Normal Sinus Rhythm.
+
+Confidence: High
+
+Note: This is decision-support based on image interpretation; clinician confirmation is essential.

@@ -1,0 +1,22 @@
+The AI analysis in the image indicates the following for the two strips:
+
+**Strip 4:**
+- Rate: Approximately 70–80 bpm (regular intervals)
+- Rhythm: Regular, with evenly spaced QRS complexes
+- P waves: Present before every QRS
+- PR interval and QRS morphology: Normal
+- Interpretation: Normal sinus rhythm
+- Confidence: Moderate to high
+
+**Strip 5:**
+- Rate: Very slow, approximately 30–40 bpm
+- Rhythm: Regular, consistent QRS spacing
+- P waves: Not clearly visible or absent before QRS
+- Interpretation: Likely idioventricular or junctional escape rhythm due to slow rate and unclear/absent P waves
+- Confidence: Moderate
+
+The clinician's assertion that strip 4 shows atrial flutter (a-flutter) and strip 5 shows atrial fibrillation (a-fib) differs from the AI's findings. The AI did not find atrial flutter (which typically presents with "sawtooth" flutter waves and a regular fast atrial rate) in strip 4, nor evidence of atrial fibrillation (irregularly irregular rhythm with absent distinct P waves) in strip 5.
+
+Given this discrepancy, the clinical interpretation provided by the AI should be considered decision-support only. Clinical correlation with full EKG tracings, multiple leads, patient symptoms, and expert electrophysiology review is necessary to confirm the rhythm diagnoses of a-flutter and a-fib.
+
+**Confidence:** Moderate (AI findings); clinician expertise is required to confirm or override.

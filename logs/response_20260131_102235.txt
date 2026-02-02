@@ -1,0 +1,7 @@
+The image contains multiple small EKG strips stacked vertically but is too small and unclear to analyze any specific EKG rhythm strip with clarity.
+
+1) Most likely rhythm: Not determinable from the current image.
+2) Supporting features: Not assessable due to low resolution and size of strips.
+3) Key differentials: Cannot be distinguished without a clear EKG strip.
+4) Confidence: Low - image quality and size do not permit confident rhythm analysis.
+5) Safety note: Please provide a larger, clearer, and zoomed-in image of a single rhythm strip for accurate assessment. Clinician confirmation is necessary for any rhythm interpretation.

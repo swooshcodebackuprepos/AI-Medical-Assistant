@@ -1,0 +1,13 @@
+The rhythm strip presented in the image shows a very rapid, regular wide-complex tachycardia without discernible P waves, consistent with ventricular tachycardia (V-tach). The waveform has a broad QRS morphology, which helps differentiate it from sinus tachycardia, which would present with a narrow QRS and visible P waves preceding each QRS complex.
+
+Key points suggesting V-tach over sinus tachycardia:
+- Wide QRS complexes
+- Rapid and regular rhythm
+- Absence of visible P waves
+- Morphology typical for ventricular origin
+
+Therefore, the correct interpretation is ventricular tachycardia, not sinus tachycardia.
+
+Confidence level: High, based on the classic features visible in the EKG strip.
+
+Clinician should confirm the diagnosis and clinical context for appropriate management.

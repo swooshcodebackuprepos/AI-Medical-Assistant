@@ -1,0 +1,16 @@
+Clinical interpretation of EKG rhythm strips visible in the image:
+
+Strip 8:
+- Regular rhythm with evenly spaced QRS complexes.
+- P waves are upright and present before each QRS complex.
+- PR interval appears consistent and within normal limits.
+- QRS complexes are narrow.
+- Likely represents Sinus Rhythm.
+
+Strip 9:
+- Irregular rhythm with rapid rate.
+- P waves difficult to identify clearly due to fast ventricular response.
+- QRS complexes are narrow and appear irregularly spaced.
+- Suggestive of Atrial Fibrillation with Rapid Ventricular Response.
+
+Confidence: Moderate to high based on the visual characteristics of the rhythm strips. Final confirmation requires clinical correlation and 12-lead ECG review.

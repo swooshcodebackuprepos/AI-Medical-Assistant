@@ -1,0 +1,13 @@
+The visible rhythm strip on the right side of the screen shows a rapid, wide-complex tachycardia with a regular rhythm, which is consistent with ventricular tachycardia (V tachy). 
+
+Key features supporting this interpretation:
+- Broad QRS complexes
+- Fast ventricular rate (tachycardia)
+- Absence of clear P waves preceding every QRS complex
+- Regular rhythm pattern
+
+This differs from sinus rhythms, which show narrow QRS complexes and clear P waves before each QRS.
+
+Confidence: High, based on the morphology and rate visible in the rhythm strip, but final clinical confirmation is necessary.
+
+Decision support only; clinician must confirm.

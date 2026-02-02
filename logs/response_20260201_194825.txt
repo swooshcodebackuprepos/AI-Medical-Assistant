@@ -1,0 +1,25 @@
+The visible screen image shows two main elements relevant to your query:
+
+1. On the right side, there is a rhythm strip with a fast, regular rhythm visible. This rhythm strip depicts a very rapid rate with a narrow QRS complex. The appearance is consistent with ventricular tachycardia or supraventricular tachycardia (SVT). There are no clear P waves discernible before each QRS complex in this strip, and the rate is markedly increased.
+
+2. On the left side, there is a text output from an EKG AI Assistant tool providing an analysis of another strip or previous analysis, concluding "Normal sinus rhythm" with high confidence based on P waves before QRS complexes and a regular rhythm. In addition, there is a clinician correction indicating "Sinus brady" (sinus bradycardia). The assistant then provides a structured interpretation consistent with sinus bradycardia:
+
+- Heart rate: Slow (<60 bpm)
+- Rhythm: Regular
+- P waves: Present before each QRS, consistent morphology
+- PR interval: Normal
+- QRS duration: Normal
+- Overall interpretation: Sinus bradycardia
+
+Your question specifically mentions VT (ventricular tachycardia), so focusing on the rhythm strip on the right side showing the fast, regular rhythm:
+
+- The rhythm strip on the right demonstrates a very rapid, regular, narrow QRS complex tachycardia. This is more consistent with supraventricular tachycardia (SVT) rather than ventricular tachycardia, which typically shows wide QRS complexes unless it is VT with aberrant conduction.
+
+Summary:
+- The AI text on the left pertains to a different strip showing sinus bradycardia.
+- The strip on the right visually shows a rapid regular rhythm consistent with "SVT (supraventricular tachycardia)" rather than VT.
+- The question on the webpage asks to identify the rhythm and the likely answer is "SVT (supraventricular tachycardia)".
+  
+Confidence: Moderate to High based on the visual evidence of a rapid narrow complex tachycardia. 
+
+Clinician confirmation is necessary for diagnosis and treatment decisions.

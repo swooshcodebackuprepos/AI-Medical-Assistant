@@ -1,0 +1,11 @@
+The rhythm visible in the ECG strip is **Sinus Tachycardia**. 
+
+This conclusion is based on the following features seen in the rhythm strip:
+- Regular waveform pattern.
+- Rate appears to be fast, generally over 100 beats per minute.
+- Presence of narrow QRS complexes consistent with sinus rhythm.
+- No irregularity or abnormalities indicative of other arrhythmias like bradycardia or abnormal rhythms.
+
+Confidence: High for Sinus Tachycardia based on standard rhythm strip characteristics.
+
+Clinical confirmation recommended.

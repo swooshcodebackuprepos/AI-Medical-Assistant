@@ -1,0 +1,9 @@
+The visible screen image shows a clinical decision-support interface analyzing an EKG rhythm strip. The AI's interpretation explains that the rhythm strip is a very rapid, regular wide-complex tachycardia with no discernible P waves, consistent with ventricular tachycardia (V-tach). This contrasts with sinus tachycardia, which would have narrow QRS complexes and visible P waves before each QRS. Key features noted are wide QRS complexes, rapid regular rhythm, absence of visible P waves, and morphology typical of ventricular origin. Confidence is reported as high for V-tach rather than sinus tachycardia.
+
+The webpage visible on the right shows an EKG rhythm strip and a quiz interface asking to select the correct rhythm, with answer options including normal sinus rhythm, sinus tachycardia, sinus bradycardia, SVT (supraventricular tachycardia), and atrial flutter.
+
+In summary, the AI's analysis strongly supports the diagnosis of ventricular tachycardia based on the rhythm strip features, with high confidence, recommending clinical confirmation.
+
+Confidence: High for ventricular tachycardia as described.
+
+Clinician should confirm diagnosis and management decisions.

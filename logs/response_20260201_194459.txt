@@ -1,0 +1,13 @@
+The visible rhythm strip on the right side of the screen shows normal P waves before each QRS complex, regular rhythm, and an overall slower heart rate consistent with sinus bradycardia. There is no evidence of a prolonged PR interval to suggest a first-degree AV block.
+
+Clinically structured interpretation:
+- Heart rate: Slow, consistent with bradycardia (<60 beats per minute)
+- Rhythm: Regular
+- P wave: Present before each QRS, consistent morphology (sinus origin)
+- PR interval: Normal (not prolonged)
+- QRS duration: Normal (narrow complexes)
+- Overall interpretation: Sinus bradycardia
+
+Confidence in this interpretation is high based on the visible features of the rhythm strip. 
+
+Decision support only; final clinical confirmation should be made by a qualified healthcare professional.

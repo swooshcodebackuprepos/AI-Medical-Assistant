@@ -1,0 +1,18 @@
+1) Most likely rhythm: Atrial fibrillation
+
+2) Supporting features:
+- Irregularly irregular ventricular rhythm (no consistent R-R intervals)
+- Absence of distinct, consistent P waves before QRS complexes
+- Presence of fibrillatory baseline oscillations between QRS complexes
+- Normal QRS width (narrow complex, no evidence of bundle branch block)
+- Variable ventricular rate (appears moderately controlled rate)
+
+3) Key differentials and how to distinguish:
+- Atrial flutter with variable block: flutter waves (sawtooth pattern), often at a regular atrial rate around 250-350 bpm, distinguish by looking for consistent flutter waves especially in inferior leads
+- Multifocal atrial tachycardia (MAT): presence of at least 3 distinct P wave morphologies; irregular rhythm but identifiable P waves, distinguish by examining multiple different P wave shapes
+- Sinus arrhythmia: presence of consistent P waves with normal morphology preceding each QRS complex; rhythm irregular but usually related to respiratory cycle, distinguish by P wave pattern and regular PR intervals
+
+4) Confidence: High  
+- The rhythm’s irregularity combined with absent P waves and fibrillatory baseline is classic for atrial fibrillation.
+
+5) Safety note: Decision-support only; clinician must confirm all findings with a full 12-lead EKG and clinical correlation.

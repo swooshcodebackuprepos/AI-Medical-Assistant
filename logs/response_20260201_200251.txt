@@ -1,0 +1,13 @@
+Clinical Analysis:
+
+- The image on the right displays an EKG rhythm strip.
+- The visible waveform on the EKG strip shows a characteristic sawtooth pattern consistent with atrial flutter waves.
+- The ventricular response appears regular, which is typical for atrial flutter rather than asystole.
+- There is no flat horizontal line that would indicate asystole (absence of electrical activity).
+- The AI assistant's analysis on the left confirms this interpretation, with moderate to high confidence, indicating atrial flutter and rejecting the idea of a normal sinus rhythm or asystole.
+
+Confidence: Moderate to high confidence for atrial flutter pattern and no evidence supporting asystole based on the visible waveform morphology.
+
+Recommendation: Confirm diagnosis by reviewing the full EKG strip clinically, as AI interpretations require clinical validation.
+
+Summary: The wave is not a flat horizontal line (asystole) but shows typical atrial flutter sawtooth waves with a regular ventricular response.

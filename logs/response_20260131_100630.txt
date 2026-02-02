@@ -1,0 +1,20 @@
+The image shows multiple rhythm strips stacked vertically, each with different rhythm characteristics. Since you have not specified which strip to analyze, I will select the seventh strip from the top (highlighted with a red arrow) for focused analysis.
+
+1) Most likely rhythm: Premature ventricular contractions (PVCs) occurring in a normal sinus rhythm background.
+
+2) Supporting features:
+- Rate: Underlying rate appears normal sinus rates, roughly 70-90 bpm.
+- Regularity: Mostly regular rhythm interrupted by early wide QRS complexes.
+- P waves: Present before normal beats, absent before premature beats.
+- PR interval: Normal PR interval on sinus beats.
+- QRS width: Normal narrow QRS on sinus beats; premature beats have wide (>120 ms), bizarre QRS complexes.
+- Ectopy: Occasional premature, wide QRS complexes consistent with PVCs.
+
+3) Key differentials:
+- Ventricular ectopy (PVCs): Wide QRS early in cycle without preceding P wave; compensatory pause.
+- Aberrant conduction of supraventricular extrasystoles: Usually have some P wave and shorter coupling interval.
+- Idioventricular rhythm if occurring in runs: No underlying sinus beats visible and consistent wide QRS.
+
+4) Confidence: High, due to clear presence of sinus rhythm interrupted by distinct premature wide QRS complexes without P waves, typical of PVCs.
+
+5) Safety note: This analysis is decision-support only; clinical correlation and confirmation by a qualified clinician is required. Additional leads or 12-lead ECG may help clarify diagnosis.

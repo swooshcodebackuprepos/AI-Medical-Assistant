@@ -1,0 +1,14 @@
+The rhythm visible in the EKG strip on the screen image is characterized by wide QRS complexes and a very rapid, regular rhythm with no discernible P waves. These findings are consistent with ventricular tachycardia (VTach).
+
+Key points supporting this interpretation:
+- Wide QRS complexes rather than narrow complexes.
+- Absence of visible P waves.
+- Rapid, regular rhythm.
+- The note from the AI system cautions against a prior incorrect interpretation as sinus tachycardia and favors ventricular tachycardia.
+- Confidence is high for ventricular tachycardia based on these features.
+
+Decision-support recommendation: The final diagnosis should be confirmed by a treating clinician using clinical correlation and manual EKG review.
+
+Confidence: High for ventricular tachycardia based on the described EKG features and AI interpretation summary.
+
+Clinician confirmation is essential before making treatment decisions.

@@ -1,0 +1,13 @@
+The visible rhythm strip on the right side of the screen shows a very fast, regular, narrow complex rhythm without visible distinct P waves. This suggests a diagnosis of sinus tachycardia given the multiple-choice options, as the rhythm is fast but appears organized.
+
+The EKG AI assistant on the left side states:
+- Normal (N) confidence = 0.959
+- Other/Rare confidence = 0.040
+
+However, the rhythm strip visually corresponds better to sinus tachycardia rather than normal sinus rhythm or sinus bradycardia.
+
+Clinical Impression:
+- Rhythm: Sinus tachycardia
+- Confidence: Moderate to high based on visual analysis and the context of options, but confirm with the clinician's interpretation.
+
+Clinician review and confirmation are essential for final diagnosis.

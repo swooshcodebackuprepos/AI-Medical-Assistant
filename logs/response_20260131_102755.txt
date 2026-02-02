@@ -1,0 +1,18 @@
+1) Most likely rhythm: Atrial fibrillation with rapid ventricular response
+
+2) Supporting features:
+- Rate: Approximately 120-150 bpm (calculated by counting QRS complexes per time)
+- Regularity: Irregularly irregular rhythm
+- P waves: Absent or fibrillatory baseline waves, no distinct P waves
+- PR interval: Not measurable due to absent P waves
+- QRS width: Normal (narrow QRS complexes)
+- No ectopic beats clearly identified
+
+3) Key differentials and distinctions:
+- Atrial flutter with variable block: Would show 'sawtooth' flutter waves, usually regular atrial activity
+- Multifocal atrial tachycardia: Presence of at least three different P wave morphologies, irregular rhythm but identifiable P waves
+- Sinus tachycardia with frequent PACs: Presence of normal P waves before QRS complexes, usually more regular rhythm
+
+4) Confidence: High – Classic irregularly irregular rhythm without P waves and normal QRS supports atrial fibrillation diagnosis.
+
+5) Safety note: This is decision-support only; diagnosing and managing arrhythmias must be confirmed and guided by a qualified clinician.

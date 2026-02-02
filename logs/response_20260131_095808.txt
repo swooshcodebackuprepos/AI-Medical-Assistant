@@ -1,0 +1,16 @@
+1) Most likely rhythm: Unable to determine due to image quality.
+
+2) Supporting features:
+- The EKG strip is very small and low resolution.
+- Cardiac waveform details including P waves, QRS complexes, and intervals are not clearly visible.
+- The strip is too short to assess rhythm regularity or rate accurately.
+- No clear ectopy or abnormal complexes can be identified.
+
+3) Key differentials and how to distinguish:
+- Cannot differentiate due to insufficient image quality and resolution.
+
+4) Confidence: Low
+- Reason: The image does not clearly show an EKG rhythm strip or cardiac waveforms needed for analysis.
+
+5) Safety note:
+This is decision-support only; a qualified clinician must confirm all findings. Obtain a higher quality, zoomed, and well-lit EKG rhythm strip showing clear P waves, QRS complexes, and a longer duration strip for accurate rhythm analysis.

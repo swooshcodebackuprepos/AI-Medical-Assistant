@@ -1,0 +1,18 @@
+1) Most likely rhythm: Sinus tachycardia
+
+2) Supporting features:
+- Rate is elevated, approximately 110-130 bpm (tachycardic)
+- Regular rhythm with fixed intervals between QRS complexes
+- P waves are present but may be small or attenuated, preceding each QRS complex
+- PR interval appears consistent and normal in duration
+- QRS complexes are narrow, indicating supraventricular origin
+- No evident ectopy or arrhythmic interruptions
+
+3) Key differentials and how to distinguish each:
+- Sinus tachycardia: Regular rhythm, P waves present and consistent before each QRS, narrow QRS
+- Atrial tachycardia: May have abnormal P wave morphology; however, P waves are generally visible and regular
+- Supraventricular tachycardia (SVT): Usually no visible P waves or P waves are buried in T waves; rate often faster (>150 bpm)
+
+4) Confidence: High - Clear regular narrow QRS complexes with visible P waves and consistent intervals suggest sinus tachycardia.
+
+5) Safety note: Decision-support only; clinician must confirm interpretation and correlate with clinical context.

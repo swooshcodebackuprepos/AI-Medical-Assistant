@@ -1,0 +1,10 @@
+The rhythm visible on the EKG strip in the image corresponds to "Atrial Flutter."
+
+Clinical reasoning:
+- The EKG shows a characteristic sawtooth pattern of flutter waves.
+- The ventricular response is regular.
+- This pattern is consistent with typical atrial flutter rather than other supraventricular tachycardias or sinus rhythms.
+
+Confidence: Moderate to high based on the visible atrial flutter wave morphology.
+
+Note: Confirmation by a clinician through direct review of the EKG tracing and clinical context is necessary for a definitive diagnosis and treatment decisions.

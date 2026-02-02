@@ -1,0 +1,15 @@
+The visible screen image shows a clinical decision-support interface analyzing an EKG rhythm. The system's AI interpretation states the rhythm strip is characterized by a very rapid, regular wide-complex tachycardia with no discernible P waves, consistent with ventricular tachycardia (VTach). It highlights features such as wide QRS complexes, rapid regular rhythm, and absence of visible P waves, which support a diagnosis of ventricular tachycardia.
+
+The note in the text acknowledges that an earlier incorrect interpretation as sinus tachycardia was likely due to mistaking the rhythm as narrow complex and rapid. However, the AI states that the rhythm is wide complex and rapid, not narrow complex, which argues against sinus tachycardia.
+
+Confidence: High for ventricular tachycardia based on described features.
+
+Summary: 
+- The AI sees wide QRS complexes and no clear P waves.
+- Characteristics point to ventricular tachycardia rather than sinus tachycardia.
+- If a P wave is clearly visible before each narrow QRS complex, then sinus tachycardia could be considered.
+- The clinical decision-support favors ventricular tachycardia and suggests confirming diagnosis clinically.
+
+Decision-support note: The final interpretation should be confirmed by the treating clinician, incorporating clinical correlation and manual review of the actual EKG tracings to identify P waves and QRS morphology precisely.
+
+In conclusion, based on this screen image analysis alone, the rhythm is interpreted as ventricular tachycardia rather than sinus tachycardia, but clinician verification is essential.

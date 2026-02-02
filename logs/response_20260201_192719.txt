@@ -1,0 +1,9 @@
+The image shows a page with three different ECG rhythm strips labeled 1, 2, and 3.
+
+- Rhythm strip 1: Regular rhythm with normal P waves before each QRS complex, consistent rate, suggesting normal sinus rhythm.
+- Rhythm strip 2: Irregular rhythm with absent or abnormal P waves and irregular QRS complexes, suggestive of atrial fibrillation.
+- Rhythm strip 3: Rapid, irregular rhythm with narrow QRS complexes and no distinct P waves noted, likely atrial fibrillation with a rapid ventricular response.
+
+My confidence is moderate based on the image resolution and standard ECG characteristics visible. Final confirmation of rhythm requires a detailed clinical ECG analysis by a clinician.
+
+Decision-support only; please confirm clinically.

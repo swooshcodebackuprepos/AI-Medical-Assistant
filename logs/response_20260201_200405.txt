@@ -1,0 +1,11 @@
+The ECG rhythm strip visible on the screen demonstrates a flat line with no visible P waves, QRS complexes, or T waves. This pattern is consistent with asystole, which is the absence of any electrical cardiac activity.
+
+Clinical features:
+- No electrical activity (no discernable waves or complexes)
+- Flat baseline
+
+Based on the image, the rhythm corresponds to asystole rather than any other rhythm listed such as sinus rhythms, SVT, atrial flutter, or atrial fibrillation.
+
+Confidence: High
+
+Note: This is decision-support based on image interpretation; clinician confirmation is essential.

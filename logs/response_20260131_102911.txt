@@ -1,0 +1,18 @@
+1) Most likely rhythm: Sinus tachycardia
+
+2) Supporting features:
+- Rate: Approximately 120 beats per minute (estimated by counting large boxes between R waves)
+- Regularity: Regular rhythm, consistent R-R intervals
+- P waves: Present before each QRS complex, upright and uniform shape
+- PR interval: Normal duration, consistent across beats
+- QRS width: Narrow, less than 0.12 seconds, indicating normal ventricular conduction
+- No ectopy or abnormal waveforms seen
+
+3) Key differentials:
+- Atrial tachycardia: Also regular, but P waves may differ in morphology; confirmed by P wave shape and axis differing from sinus P wave.
+- Supraventricular tachycardia (SVT): Typically no visible P waves or P waves buried in preceding T waves; sudden onset; rate often faster than sinus tachycardia.
+- Sinus arrhythmia: Irregular rhythm with variation in rate related to respiration; here rhythm is regular.
+
+4) Confidence: High, due to presence of regular rate, normal P waves preceding each QRS, and narrow QRS complexes typical of sinus tachycardia.
+
+5) Safety note: This analysis provides decision-support only. Final interpretation and clinical decisions must be confirmed by a qualified clinician.

@@ -1,0 +1,18 @@
+1) Most likely rhythm: Sinus rhythm
+
+2) Supporting features:
+- Rate: Approximately 70-80 bpm (normal range)
+- Regularity: Regular rhythm, consistent R-R intervals
+- P waves: Present before each QRS complex, upright morphology
+- P/QRS ratio: 1:1 conduction (each P wave followed by a QRS)
+- PR interval: Normal duration (approximately 0.12 to 0.20 seconds)
+- QRS width: Normal narrow complexes (<0.12 seconds)
+
+3) Key differentials and distinguishing features:
+- Sinus tachycardia: Faster rate (>100 bpm) but otherwise similar EKG features; distinguished by increased rate.
+- Atrial flutter with 2:1 block: Regular rhythm but P waves replaced by flutter ("sawtooth") waves and often no distinct P before each QRS; can distinguish by characteristic flutter waves and atrial rate.
+- Junctional rhythm: Absent or inverted P waves and usually slower rate; distinguish by P wave morphology and timing.
+
+4) Confidence: High — Clear, regular rhythm with normal P waves preceding each QRS and normal intervals.
+
+5) Safety note: This is decision-support only; a clinician must confirm all findings and clinical correlation is essential.
