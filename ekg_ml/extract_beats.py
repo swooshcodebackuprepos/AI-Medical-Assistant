@@ -1,3 +1,8 @@
+# Proprietary Software
+# Copyright (c) 2026 Nigel Phillips
+# All rights reserved.
+# Unauthorized copying, modification, distribution, or use is prohibited.
+
 from pathlib import Path
 import numpy as np
 import wfdb
