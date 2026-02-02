@@ -1,3 +1,8 @@
+# Proprietary Software
+# Copyright (c) 2026 Nigel Phillips
+# All rights reserved.
+# Unauthorized copying, modification, distribution, or use is prohibited.
+
 import wfdb
 import matplotlib
 import matplotlib.pyplot as plt
